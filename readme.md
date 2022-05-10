@@ -38,4 +38,10 @@ output_file_name = f"{radius}-{center_i}.png"
 os.makedirs(output_path, exist_ok=True)
 pert_image = pert_image.view(3, 160, 105)
 save_image(pert_image, output_path + output_file_name)
-'''python
+'''
+- Use the generated image to create gif from [here](https://ezgif.com/maker).
+
+### Illustration of Adversarial Attack
+![](https://github.com/Adversarial-Image-Generation/outputs/gif/hline.gif)
+![](https://github.com/Adversarial-Image-Generation/outputs/gif/vline.gif)
+![](https://github.com/Adversarial-Image-Generation/outputs/gif/spot.gif)
