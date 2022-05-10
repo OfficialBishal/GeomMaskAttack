@@ -12,7 +12,7 @@
 ### To run the project
 - run 'main.py' 
 - Configure 'mode', 'model_path', 'op_path, and 'output_path' as necessary.
-- The model_path must be directed to the model intended to use. 
+- The 'model_path' must be directed to the model intended to use. 
 
 ### To test the dataset on model
 - run 'testing.py'
