@@ -1,0 +1,19 @@
+# macOS Files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Folders
+images/
+models/
+Thesis/
+outputs/Evaluations1/
+outputs/No-patch/
+outputs/Patch/
+outputs/Result/
+
+#files
+fastspot.py
+ALPR_.ipynb
+generators.py
