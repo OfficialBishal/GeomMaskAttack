@@ -1,12 +1,12 @@
 ## Read.Me
-- line.py annd spot.py contains code to generate adversarial samples with HLine and Spot respectively.
+- 'line.py' and 'spot.py' contains code to generate adversarial samples with HLine and Spot respectively.
 
 ### Dataset
 - Download the dataset from this [link](https://www.kaggle.com/datasets/officialbishal/nepals-embossed-license-plate-character-set) or [link](www.kaggle.com/dataset/38dcaa3c94bc09e5e785599d8b83bf4e30154a02bde618457b2f470b2a80b346).
 - Put the dataset inside the 'images/Segments_Sorted/' directory.
 
 ### Train LPR model
-- run ALPR.ipynb
+- run 'ALPR.ipynb'
 - Configure 'data_path', and 'save_path' as necessary.
 
 ### To run the project
@@ -18,15 +18,15 @@
 - run 'testing.py'
 
 ### Adversarial Training
-- run AdversarialTraining.ipynb
+- run 'AdversarialTraining.ipynb'
 - Configure 'save_path' as necessary.
 
 ### To generate heatmap
-- run heatmap.py
+- run 'heatmap.py'
 - Configure 'model_path' and 'output_path' as necessary.
 
 ### To create gif
-- run gif_creation.py
+- run 'gif_creation.py'
 - Consifure 'output_path'
 - Copy and paste code below at appropriate location in spot.py or line.py of which gif you want to create
 ```python
