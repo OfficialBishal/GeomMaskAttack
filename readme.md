@@ -2,7 +2,7 @@
 - 'line.py' and 'spot.py' contains code to generate adversarial samples with HLine and Spot respectively.
 
 ### Dataset
-- Download the dataset from this [link](https://www.kaggle.com/datasets/officialbishal/nepals-embossed-license-plate-character-set) or [link](www.kaggle.com/dataset/38dcaa3c94bc09e5e785599d8b83bf4e30154a02bde618457b2f470b2a80b346).
+- Download the dataset from this [link](https://www.kaggle.com/datasets/officialbishal/nepals-embossed-license-plate-character-set) or [link](https://www.kaggle.com/dataset/38dcaa3c94bc09e5e785599d8b83bf4e30154a02bde618457b2f470b2a80b346).
 - Put the dataset inside the 'images/Segments_Sorted/' directory.
 
 ### Train LPR model
