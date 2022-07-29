@@ -313,7 +313,7 @@ def main():
         dataset_loader = load_data()
         for i, data in enumerate(dataset_loader):
             # if (i >= 0 and i <= 5) or (i >= 90 and i <= 95) or (i >= 223 and i <= 228) or (i >= 305 and i <= 310) or (i >= 362 and i <= 367) or (i >= 395 and i <= 400) or (i >= 453 and i <= 459) or (i >= 510 and i <= 515) or (i >= 575 and i <= 580) or (i >= 590 and i <= 595) or (i >= 849 and i <= 856) or (i >= 950 and i <= 955) or (i >= 1026 and i <= 1032):
-            if (True):
+            if (i==0):
                 # get the inputs; data is a list of [inputs, labels]
                 images, labels = data
                 # [1, 3, 160, 105] -> [3, 160, 105]

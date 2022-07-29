@@ -12,6 +12,7 @@ outputs/Evaluations1/
 outputs/No-patch/
 outputs/Patch/
 outputs/Result/
+outputs/Demo
 
 #files
 fastspot.py
