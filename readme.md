@@ -1,5 +1,5 @@
 ## Read.Me
-- 'line.py' and 'spot.py' contains code to generate adversarial samples with HLine and Spot respectively.
+- 'line.py' and 'spot.py' contains code to generate adversarial samples with HLine, VLine and Spot respectively.
 
 ### Dataset
 - Download the dataset from this [link](https://kaggle.com/datasets/19bdc7feafbf89240300cebbf9b5b6db40d796b4fa7d76069ab3789201869322) or [link](https://www.kaggle.com/dataset/38dcaa3c94bc09e5e785599d8b83bf4e30154a02bde618457b2f470b2a80b346).
