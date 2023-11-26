@@ -13,8 +13,11 @@ outputs/No-patch/
 outputs/Patch/
 outputs/Result/
 outputs/Demo
+weak spot highlight
 
 #files
 fastspot.py
 ALPR_.ipynb
 generators.py
+Thesis.ipynb
+heatmap_thesis.ipynb
